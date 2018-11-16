@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Esteban Moro</title>
+    <link>/tags/visualization/</link>
+    <description>Recent content in Visualization on Esteban Moro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Temporal networks with R and igraph (updated)</title>
+      <link>/2018/11/temporal-networks-with-r-and-igraph-updated/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/temporal-networks-with-r-and-igraph-updated/</guid>
+      <description>A while ago, I wrote a post about how to create animations of temporal networks using R and the amazing package igraph package. The post was written in 2012 and the code does not work with the most recent versions (1.0) of igraph. Here I revisited that post, improving its performance and also making it consistent with the new versions of the package and R.
+First of all, let me remind you the basic idea: we want to get an animated evolution of a network in which nodes/edges appear (and/or disappear) dynamically.</description>
+    </item>
+    
+  </channel>
+</rss>

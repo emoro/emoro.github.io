@@ -1,0 +1,28 @@
+---
+title: Important relationships are not bursty
+author: Esteban Moro
+date: '2018-11-16'
+slug: important-relationships-are-not-bursty
+categories:
+  - science
+tags:
+  - networks
+---
+
+What are the properties of a long-lasting relationship? This important question as intrigued the social scientists during the last decades and has triggered numerous publications, surveys and experiments to detect what patterns are behind social relationships that persist. Probably the most famous finding is that of Granovetter who <a href="https://en.wikipedia.org/wiki/Interpersonal_ties">proposed</a> that strong relationships are the ones more likely to persist in the future. And what is a strong relationship? According to Granovetter, a strong relationship is that with high intensity (a lot of interactions), intimacy (mutual confiding) and large structural redundancy (lots of common friends).
+
+But even strong relationships decay and we don't understand why relationships break apart despite they have a lot of common friends, talk or meet quite often. In a <a href="http://estebanmoro.org/2017/06/temporal-patterns-behind-the-strength-of-persistent-ties/">recent paper</a> we tried to study this problem from another point of view: the temporal style of social interactions. Our research is based on the finding by Barábasi that <a href="https://www.amazon.com/Bursts-Patterns-Everything-mail-Crusades/dp/0452297184">human activities are bursty:</a> short burst of activity (work, communication, going to the library, etc.) are followed by large periods of inactivity. And we have also seen that this happens also for relationships [<a href="http://estebanmoro.org/2010/11/the-dynamical-strength-of-social-ties-in-information-spreading/">link</a>], were interactions (talk, meetings) between people follow also that bursty pattern. <strong>Burstiness is the default</strong> in human interactions and there are theories that explain its prevalence based on how humans manage their attention and priorities: since we have many tasks to perform, we prioritize them resulting in bursts of events in one activity followed by large inactivity periods in which we are doing some other tasks.
+
+Thus, if burstiness is the default, <strong>what does a regular activity pattern tell us about the importance of that activity</strong>? Look at the following plot in which we show four different activities (A to D) performed by the same person. <img class="aligncenter size-full wp-image-1007" src="http://estebanmoro.org/wp-content/uploads/2017/12/bursty.jpg" alt="" width="782" height="465" />
+
+Each vertical line corresponds to an event in that activity, which for example could be talking or meeting a given friend. As we can see C) and D) are very bursty patterns of activity, while A) and B) are more regular. Note that all activities have the same number of events (8). By looking at these patterns, can you tell which activity/relationship is more important to this person? Maybe A) and B) were more important because they require more attention and regularity in the interaction, while C) and D) are the unexceptional bursty patterns we all have. <a href="http://estebanmoro.org/2017/06/temporal-patterns-behind-the-strength-of-persistent-ties/">Our results of our research</a> corroborate that intuition: in particular we have found that social relationships that look like A) and B) are stronger and are more likely to persist in the future than those like C) or D).
+
+Thus, <strong>burstiness makes relationships weaker</strong>, while regularity reveals strong more persistent social ties.  If you really care about a relationship, you have to maintain a regular interaction. Stop what you are doing and call that old friend of yours to let her/him know you really care about them and resume your non-bursty interaction. Pretty much can happen to your New Year's resolutions: if you register for the gym to get fit, try to find a time every week rather than go every now and them when you have free time. This is probably a good way to bit the odds that after 15th of January <a href="https://www.usatoday.com/story/money/personalfinance/2013/01/16/gyms-new-years-resolution-rush/1779651/">95% new gym memberships will never come back</a>.
+
+&nbsp;
+
+Find our research here:
+
+<em>Temporal patterns behind the strength of persistent ties</em>
+Henry Navarro, Giovanna Miritello, Arturo Canales, Esteban Moro
+<span class="JournalTitle">EPJ Data Science (</span><span class="ArticleCitation_Year">2017) </span><span class="ArticleCitation_Volume"><strong>6</strong>:31</span> [<strong><a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0127-3" target="_blank" rel="noopener">LINK</a></strong>]

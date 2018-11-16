@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on Esteban Moro</title>
+    <link>/tags/kids/</link>
+    <description>Recent content in Kids on Esteban Moro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Science for kids!</title>
+      <link>/2018/11/network-science-for-kids/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/network-science-for-kids/</guid>
+      <description>One of my favorite activities is to teach my field or research network science to high-schoolers. We (together with my colleague Cristina Brändle) have been doing that from our university to the local high schools in Madrid. Since they know concepts like equations, probability or geometry, it is somehow easy to show them concepts like what is a network, small world, friendship paradox or centrality. We usually have transparencies and allow them to work on Excel to perform some calculations which works well to understand the basic concepts of networks.</description>
+    </item>
+    
+  </channel>
+</rss>
